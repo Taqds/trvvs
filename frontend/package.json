@@ -1,0 +1,36 @@
+{
+  "name": "prrvs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/lab": "^5.0.0-alpha.82",
+    "@mui/material": "^5.9.3",
+    "@mui/styles": "^5.6.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "jss": "^10.9.2",
+    "mui": "^0.0.1",
+    "next": "^12.2.4",
+    "react": "18.0.0",
+    "react-data-table-component": "^7.5.2",
+    "react-dom": "18.0.0",
+    "react-hook-form": "^7.34.0",
+    "react-swipeable-views": "^0.14.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4"
+  }
+}
